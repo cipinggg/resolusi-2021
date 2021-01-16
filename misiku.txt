@@ -1,2 +1,4 @@
 1. Belajar website development.
+  1.1. Belajar Javascript
+  1.2 Belajar Vue.js
 2. Belajar Statistika.
